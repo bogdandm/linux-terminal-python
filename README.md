@@ -1,4 +1,4 @@
-# Эмулятор терминала линкус на Python
+# Эмулятор терминала \*nix на Python
 *just for fun*
 * cat
 * cd
